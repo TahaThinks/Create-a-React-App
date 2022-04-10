@@ -1,2 +1,2 @@
-# Create-a-React-App
-Created with CodeSandbox
+# Dependencies:
+react and react-dom
